@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1504286804 source:e:\programacion 3\listatrabajador\main.cpp
+	<iostream>
+	"Lista.h"
+
+1504286828 e:\programacion 3\listatrabajador\lista.h
+	"Nodo.h"
+
+1504060034 e:\programacion 3\listatrabajador\nodo.h
+	"Trabajador.h"
+	<stdlib.h>
+
+1504067738 e:\programacion 3\listatrabajador\trabajador.h
+	<string.h>
+
+1504306485 source:c:\users\dimas garcia\desktop\listatrabajador\main.cpp
+	<iostream>
+	<windows.h>
+	"Lista.h"
+
+1504308502 c:\users\dimas garcia\desktop\listatrabajador\lista.h
+	"Nodo.h"
+
+1504060034 c:\users\dimas garcia\desktop\listatrabajador\nodo.h
+	"Trabajador.h"
+	<stdlib.h>
+
+1504067738 c:\users\dimas garcia\desktop\listatrabajador\trabajador.h
+	<string.h>
+
+1504409862 source:e:\listatrabajador\main.cpp
+	<iostream>
+	<windows.h>
+	"Lista.h"
+
+1504409766 e:\listatrabajador\lista.h
+	"Nodo.h"
+
+1504060034 e:\listatrabajador\nodo.h
+	"Trabajador.h"
+	<stdlib.h>
+
+1504067738 e:\listatrabajador\trabajador.h
+	<string.h>
+
+1504410134 source:c:\users\dimas garcia\desktop\listatrabajador\listatrabajador\main.cpp
+	<iostream>
+	<windows.h>
+	"Lista.h"
+
+1504409766 c:\users\dimas garcia\desktop\listatrabajador\listatrabajador\lista.h
+	"Nodo.h"
+
+1504060034 c:\users\dimas garcia\desktop\listatrabajador\listatrabajador\nodo.h
+	"Trabajador.h"
+	<stdlib.h>
+
+1504067738 c:\users\dimas garcia\desktop\listatrabajador\listatrabajador\trabajador.h
+	<string.h>
+
+1504624112 source:c:\users\dimas garcia\desktop\trabajador\listatrabajador\listatrabajador\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Lista.h"
+
+1504623729 c:\users\dimas garcia\desktop\trabajador\listatrabajador\listatrabajador\lista.h
+	"Nodo.h"
+
+1504060034 c:\users\dimas garcia\desktop\trabajador\listatrabajador\listatrabajador\nodo.h
+	"Trabajador.h"
+	<stdlib.h>
+
+1504580548 c:\users\dimas garcia\desktop\trabajador\listatrabajador\listatrabajador\trabajador.h
+	<string.h>
+
